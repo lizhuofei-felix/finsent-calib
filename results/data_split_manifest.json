@@ -1,0 +1,13 @@
+{
+  "source": "https://huggingface.co/datasets/takala/financial_phrasebank",
+  "revision": "8d3fe0c36d5feec6b3cc5e455b0fcb4820fb9964",
+  "subset_file": "FinancialPhraseBank-v1.0/Sentences_75Agree.txt",
+  "subset_sha256": "a7ca39fb9dc60aed1c323ee635494aed4acdfc05e0349a9e74367502325303a4",
+  "seed": 42,
+  "n_after_dedup": 3448,
+  "sizes": {
+    "train": 2413,
+    "val": 517,
+    "test": 518
+  }
+}

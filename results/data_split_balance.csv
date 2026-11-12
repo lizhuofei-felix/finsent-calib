@@ -1,0 +1,10 @@
+split,label,count,share
+train,negative,294,0.1218
+train,neutral,1498,0.6208
+train,positive,621,0.2574
+val,negative,63,0.1219
+val,neutral,321,0.6209
+val,positive,133,0.2573
+test,negative,63,0.1216
+test,neutral,322,0.6216
+test,positive,133,0.2568
