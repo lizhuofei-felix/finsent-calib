@@ -9,6 +9,9 @@ The plan and progress tracker is a Notion page (Project Roadmap: Calibrated Fina
 Sentiment Signal with a Fine-tuned Small LLM). Code, configs and results live here; the plan
 and the decision and hours logs live there.
 
+Starting a new session: read `HANDOFF.md` first. It has the current state, the working
+conventions and the next step.
+
 ## Rules
 
 - Work one roadmap step at a time. If a step fails or an assumption turns out wrong, stop
