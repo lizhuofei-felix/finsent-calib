@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environment
+.venv/
+.env
+.env.*
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Data: never committed (dataset licenses forbid redistribution)
+data/
+
+# Model weights and training outputs
+checkpoints/
+outputs/
+runs/
+wandb/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# External clones (MiniMind lives outside this repo)
+third_party/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
