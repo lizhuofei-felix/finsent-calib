@@ -33,6 +33,9 @@ wandb/
 # External clones (MiniMind lives outside this repo)
 third_party/
 
+# Downloaded reference papers (not ours to redistribute)
+papers/
+
 # OS and editors
 .DS_Store
 .idea/
